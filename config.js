@@ -3,7 +3,7 @@
 const staticConfig = {
     // ==================== BAILEYS & SESSION ====================
     BAILEYS: "@whiskeysockets/baileys",
-    SESSION_ID: process.env.SESSION_ID || "EDITH~BYCG",  // Keep session ID in plain text
+    SESSION_ID: process.env.SESSION_ID || "EDITH~HRgQ",  // Keep session ID in plain text
     CDN: process.env.CDN || "https://bandaheali-cdn.koyeb.app",
 };
 
